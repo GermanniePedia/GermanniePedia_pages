@@ -2,237 +2,237 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://germanniepedia.pages.dev/en/</loc>
+    <loc>/en/</loc>
     <lastmod>2023-07-11T10:35:13+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://germanniepedia.pages.dev/zh/"
+                href="/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://germanniepedia.pages.dev/en/"
+                href="/en/"
                 />
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/zh/posts/goodbye_everyone/</loc>
+    <loc>/en/zh/posts/goodbye_everyone/</loc>
     <lastmod>2023-07-11T10:35:13+08:00</lastmod>
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/zh/</loc>
+    <loc>/en/zh/</loc>
     <lastmod>2023-07-11T10:35:13+08:00</lastmod>
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/posts/520-huo-dong/</loc>
+    <loc>/en/posts/520-huo-dong/</loc>
     <lastmod>2023-05-20T13:14:20+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://germanniepedia.pages.dev/zh/posts/520-huo-dong/"
+                href="/zh/posts/520-huo-dong/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://germanniepedia.pages.dev/en/posts/520-huo-dong/"
+                href="/en/posts/520-huo-dong/"
                 />
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/zh/posts/520-huo-dong/</loc>
+    <loc>/en/zh/posts/520-huo-dong/</loc>
     <lastmod>2023-05-20T13:14:20+00:00</lastmod>
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/posts/</loc>
-    <lastmod>2023-05-20T13:14:20+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://germanniepedia.pages.dev/zh/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://germanniepedia.pages.dev/en/posts/"
-                />
-  </url><url>
-    <loc>https://germanniepedia.pages.dev/en/tags/</loc>
+    <loc>/en/posts/</loc>
     <lastmod>2023-05-20T13:14:20+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://germanniepedia.pages.dev/zh/tags/"
+                href="/zh/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://germanniepedia.pages.dev/en/tags/"
+                href="/en/posts/"
                 />
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/tags/%E5%BA%94%E6%8F%B4%E5%A4%84/</loc>
+    <loc>/en/tags/</loc>
     <lastmod>2023-05-20T13:14:20+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://germanniepedia.pages.dev/zh/tags/%E5%BA%94%E6%8F%B4%E5%A4%84/"
+                href="/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://germanniepedia.pages.dev/en/tags/%E5%BA%94%E6%8F%B4%E5%A4%84/"
+                href="/en/tags/"
                 />
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/tags/6/</loc>
+    <loc>/en/tags/%E5%BA%94%E6%8F%B4%E5%A4%84/</loc>
+    <lastmod>2023-05-20T13:14:20+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/%E5%BA%94%E6%8F%B4%E5%A4%84/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/%E5%BA%94%E6%8F%B4%E5%A4%84/"
+                />
+  </url><url>
+    <loc>/en/tags/6/</loc>
     <lastmod>2023-05-17T20:06:30+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://germanniepedia.pages.dev/zh/tags/6/"
+                href="/zh/tags/6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://germanniepedia.pages.dev/en/tags/6/"
+                href="/en/tags/6/"
                 />
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/posts/idahtb/</loc>
+    <loc>/en/posts/idahtb/</loc>
     <lastmod>2023-05-17T20:06:30+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://germanniepedia.pages.dev/zh/posts/idahtb/"
+                href="/zh/posts/idahtb/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://germanniepedia.pages.dev/en/posts/idahtb/"
+                href="/en/posts/idahtb/"
                 />
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/zh/posts/idahtb/</loc>
+    <loc>/en/zh/posts/idahtb/</loc>
     <lastmod>2023-05-17T20:06:30+00:00</lastmod>
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/posts/%E5%85%AC%E5%91%8A/</loc>
+    <loc>/en/posts/%E5%85%AC%E5%91%8A/</loc>
     <lastmod>2023-04-28T23:38:30+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://germanniepedia.pages.dev/zh/posts/%E5%85%AC%E5%91%8A/"
+                href="/zh/posts/%E5%85%AC%E5%91%8A/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://germanniepedia.pages.dev/en/posts/%E5%85%AC%E5%91%8A/"
+                href="/en/posts/%E5%85%AC%E5%91%8A/"
                 />
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/zh/posts/%E5%85%AC%E5%91%8A/</loc>
+    <loc>/en/zh/posts/%E5%85%AC%E5%91%8A/</loc>
     <lastmod>2023-04-28T23:38:30+00:00</lastmod>
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/posts/zyz20232/</loc>
+    <loc>/en/posts/zyz20232/</loc>
     <lastmod>2023-04-25T20:37:17+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://germanniepedia.pages.dev/zh/posts/zyz20232/"
+                href="/zh/posts/zyz20232/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://germanniepedia.pages.dev/en/posts/zyz20232/"
+                href="/en/posts/zyz20232/"
                 />
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/zh/posts/zyz20232/</loc>
+    <loc>/en/zh/posts/zyz20232/</loc>
     <lastmod>2023-04-25T20:37:17+00:00</lastmod>
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/posts/ztz20231/</loc>
+    <loc>/en/posts/ztz20231/</loc>
     <lastmod>2023-04-15T09:15:28+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://germanniepedia.pages.dev/zh/posts/ztz20231/"
+                href="/zh/posts/ztz20231/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://germanniepedia.pages.dev/en/posts/ztz20231/"
+                href="/en/posts/ztz20231/"
                 />
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/zh/posts/ztz20231/</loc>
+    <loc>/en/zh/posts/ztz20231/</loc>
     <lastmod>2023-04-15T09:15:28+00:00</lastmod>
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/tags/%E7%BB%9F%E6%88%98%E9%83%A8/</loc>
+    <loc>/en/tags/%E7%BB%9F%E6%88%98%E9%83%A8/</loc>
     <lastmod>2023-04-15T09:15:28+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://germanniepedia.pages.dev/zh/tags/%E7%BB%9F%E6%88%98%E9%83%A8/"
+                href="/zh/tags/%E7%BB%9F%E6%88%98%E9%83%A8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://germanniepedia.pages.dev/en/tags/%E7%BB%9F%E6%88%98%E9%83%A8/"
+                href="/en/tags/%E7%BB%9F%E6%88%98%E9%83%A8/"
                 />
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/posts/zyz20223/</loc>
+    <loc>/en/posts/zyz20223/</loc>
     <lastmod>2022-12-30T19:22:14+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://germanniepedia.pages.dev/zh/posts/zyz20223/"
+                href="/zh/posts/zyz20223/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://germanniepedia.pages.dev/en/posts/zyz20223/"
+                href="/en/posts/zyz20223/"
                 />
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/zh/posts/zyz20223/</loc>
+    <loc>/en/zh/posts/zyz20223/</loc>
     <lastmod>2022-12-30T19:22:14+00:00</lastmod>
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/about/</loc>
+    <loc>/en/about/</loc>
     <lastmod>2020-01-25T19:09:48+00:00</lastmod>
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/authors/</loc>
+    <loc>/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://germanniepedia.pages.dev/zh/authors/"
+                href="/zh/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://germanniepedia.pages.dev/en/authors/"
+                href="/en/authors/"
                 />
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/categories/</loc>
+    <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://germanniepedia.pages.dev/zh/categories/"
+                href="/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://germanniepedia.pages.dev/en/categories/"
+                href="/en/categories/"
                 />
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/series/</loc>
+    <loc>/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://germanniepedia.pages.dev/zh/series/"
+                href="/zh/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://germanniepedia.pages.dev/en/series/"
+                href="/en/series/"
                 />
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/posts/chong-yao-gong-gao/</loc>
+    <loc>/en/posts/chong-yao-gong-gao/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://germanniepedia.pages.dev/zh/posts/chong-yao-gong-gao/"
+                href="/zh/posts/chong-yao-gong-gao/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://germanniepedia.pages.dev/en/posts/chong-yao-gong-gao/"
+                href="/en/posts/chong-yao-gong-gao/"
                 />
   </url><url>
-    <loc>https://germanniepedia.pages.dev/en/zh/posts/chong-yao-gong-gao/</loc>
+    <loc>/en/zh/posts/chong-yao-gong-gao/</loc>
   </url>
 </urlset>
