@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Germannie Pedia</title>
-    <link>https://germanniepedia.pages.dev/zh/categories/</link>
+    <link>http://germanniepedia.top/zh/categories/</link>
     <description>Recent content in Categories on Germannie Pedia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy; 2023 &lt;a href=&#34;https://www.germanniepedia.top/&#34;&gt;Germannie Pedia&lt;/a&gt;
-</copyright><atom:link href="https://germanniepedia.pages.dev/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+</copyright><atom:link href="http://germanniepedia.top/zh/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
